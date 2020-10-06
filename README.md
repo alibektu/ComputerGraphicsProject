@@ -37,3 +37,6 @@
   * Classification according to the graph
 * Sensor Phone
   * Sending sensor values (when its get more than Thold)
+
+# Video Result
+https://drive.google.com/file/d/1pnkx88sW03JA5PzeXLTEYeWVGIrQySzs/view?usp=sharing
